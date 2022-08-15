@@ -1,0 +1,942 @@
+INFO  04:00:21 Application started. Press Ctrl+C to shut down.
+INFO  04:00:21 Application started. Press Ctrl+C to shut down.
+INFO  04:00:21 Hosting environment: Development
+INFO  04:00:21 Hosting environment: Development
+INFO  04:00:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  04:00:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  04:00:41 Failed to determine the https port for redirect.
+WARN  04:00:41 Failed to determine the https port for redirect.
+INFO  04:00:42 Login initiated!
+INFO  04:00:42 Validating the User!
+INFO  04:00:51 Login initiated!
+INFO  04:00:51 Validating the User!
+INFO  04:00:51 Token Is Generated!
+INFO  01:22:13 Application started. Press Ctrl+C to shut down.
+INFO  01:22:13 Application started. Press Ctrl+C to shut down.
+INFO  01:22:13 Hosting environment: Development
+INFO  01:22:13 Hosting environment: Development
+INFO  01:22:13 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  01:22:13 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  01:23:05 Failed to determine the https port for redirect.
+WARN  01:23:05 Failed to determine the https port for redirect.
+INFO  03:14:21 Application started. Press Ctrl+C to shut down.
+INFO  03:14:21 Application started. Press Ctrl+C to shut down.
+INFO  03:14:21 Hosting environment: Development
+INFO  03:14:21 Hosting environment: Development
+INFO  03:14:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+INFO  03:14:21 Content root path: F:\VsFilesSai\AuthorizationAPI
+WARN  03:14:31 Failed to determine the https port for redirect.
+WARN  03:14:31 Failed to determine the https port for redirect.
+INFO  03:14:32 Login initiated!
+INFO  03:14:32 Validating the User!
+INFO  03:25:12 Login initiated!
+INFO  03:25:12 Validating the User!
+INFO  03:25:12 Token Is Generated!
+INFO  03:27:42 Login initiated!
+INFO  03:27:42 Validating the User!
+INFO  03:27:42 Token Is Generated!
+INFO  03:27:57 Login initiated!
+INFO  03:27:57 Validating the User!
+INFO  03:29:31 Login initiated!
+INFO  03:29:31 Validating the User!
+INFO  03:29:31 Token Is Generated!
+INFO  05:39:08 Login initiated!
+INFO  05:39:08 Validating the User!
+INFO  05:39:08 Token Is Generated!
+INFO  09:52:13 Application started. Press Ctrl+C to shut down.
+INFO  09:52:13 Application started. Press Ctrl+C to shut down.
+INFO  09:52:13 Hosting environment: Development
+INFO  09:52:13 Hosting environment: Development
+INFO  09:52:13 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  09:52:13 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  09:52:25 Failed to determine the https port for redirect.
+WARN  09:52:25 Failed to determine the https port for redirect.
+INFO  09:52:26 Login initiated!
+INFO  09:52:26 Validating the User!
+INFO  12:05:38 Login initiated!
+INFO  12:05:38 Validating the User!
+INFO  12:05:38 Token Is Generated!
+INFO  12:07:32 Login initiated!
+INFO  12:07:32 Validating the User!
+INFO  12:07:32 Token Is Generated!
+INFO  12:08:32 Login initiated!
+INFO  12:08:32 Validating the User!
+INFO  12:08:32 Token Is Generated!
+INFO  08:51:41 Application started. Press Ctrl+C to shut down.
+INFO  08:51:41 Application started. Press Ctrl+C to shut down.
+INFO  08:51:41 Hosting environment: Development
+INFO  08:51:41 Hosting environment: Development
+INFO  08:51:41 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  08:51:41 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  09:10:35 Failed to determine the https port for redirect.
+WARN  09:10:35 Failed to determine the https port for redirect.
+INFO  09:10:36 Login initiated!
+INFO  09:10:36 Validating the User!
+INFO  09:10:36 Token Is Generated!
+INFO  09:22:42 Login initiated!
+INFO  09:22:42 Validating the User!
+INFO  09:22:42 Token Is Generated!
+INFO  09:26:58 Login initiated!
+INFO  09:26:58 Validating the User!
+INFO  09:26:58 Token Is Generated!
+INFO  09:33:13 Login initiated!
+INFO  09:33:13 Validating the User!
+INFO  09:33:13 Token Is Generated!
+INFO  09:35:10 Login initiated!
+INFO  09:35:10 Validating the User!
+INFO  09:35:10 Token Is Generated!
+INFO  09:36:45 Login initiated!
+INFO  09:36:45 Validating the User!
+INFO  09:36:45 Token Is Generated!
+INFO  09:38:10 Login initiated!
+INFO  09:38:10 Validating the User!
+INFO  09:38:10 Token Is Generated!
+INFO  09:41:29 Login initiated!
+INFO  09:41:29 Validating the User!
+INFO  09:41:29 Token Is Generated!
+INFO  09:55:32 Login initiated!
+INFO  09:55:32 Validating the User!
+INFO  09:55:32 Token Is Generated!
+INFO  09:58:04 Login initiated!
+INFO  09:58:04 Validating the User!
+INFO  09:58:04 Token Is Generated!
+INFO  10:00:46 Login initiated!
+INFO  10:00:46 Validating the User!
+INFO  10:00:46 Token Is Generated!
+INFO  10:08:11 Login initiated!
+INFO  10:08:11 Validating the User!
+INFO  10:08:11 Token Is Generated!
+INFO  10:10:09 Login initiated!
+INFO  10:10:09 Validating the User!
+INFO  10:10:09 Token Is Generated!
+INFO  10:12:54 Login initiated!
+INFO  10:12:54 Validating the User!
+INFO  10:12:54 Token Is Generated!
+INFO  10:17:14 Login initiated!
+INFO  10:17:14 Validating the User!
+INFO  10:17:14 Token Is Generated!
+INFO  10:20:11 Login initiated!
+INFO  10:20:11 Validating the User!
+INFO  10:20:11 Token Is Generated!
+INFO  10:21:49 Login initiated!
+INFO  10:21:49 Validating the User!
+INFO  10:21:49 Token Is Generated!
+INFO  10:27:13 Login initiated!
+INFO  10:27:13 Validating the User!
+INFO  10:27:13 Token Is Generated!
+INFO  10:30:59 Login initiated!
+INFO  10:30:59 Validating the User!
+INFO  10:30:59 Token Is Generated!
+INFO  10:35:55 Login initiated!
+INFO  10:35:55 Validating the User!
+INFO  10:35:55 Token Is Generated!
+INFO  10:37:07 Login initiated!
+INFO  10:37:07 Validating the User!
+INFO  10:37:07 Token Is Generated!
+INFO  10:38:41 Login initiated!
+INFO  10:38:41 Validating the User!
+INFO  10:38:41 Token Is Generated!
+INFO  10:42:26 Login initiated!
+INFO  10:42:26 Validating the User!
+INFO  10:42:26 Token Is Generated!
+INFO  10:47:11 Login initiated!
+INFO  10:47:11 Validating the User!
+INFO  10:47:11 Token Is Generated!
+INFO  10:51:56 Login initiated!
+INFO  10:51:56 Validating the User!
+INFO  10:51:56 Token Is Generated!
+INFO  11:25:25 Login initiated!
+INFO  11:25:25 Validating the User!
+INFO  11:25:25 Token Is Generated!
+INFO  11:30:31 Login initiated!
+INFO  11:30:31 Validating the User!
+INFO  11:30:31 Token Is Generated!
+INFO  11:39:18 Login initiated!
+INFO  11:39:18 Validating the User!
+INFO  11:39:18 Token Is Generated!
+INFO  11:40:43 Login initiated!
+INFO  11:40:43 Validating the User!
+INFO  11:40:43 Token Is Generated!
+INFO  11:43:28 Login initiated!
+INFO  11:43:28 Validating the User!
+INFO  11:43:28 Token Is Generated!
+INFO  11:45:06 Login initiated!
+INFO  11:45:06 Validating the User!
+INFO  11:45:06 Token Is Generated!
+INFO  11:48:09 Login initiated!
+INFO  11:48:09 Validating the User!
+INFO  11:48:09 Token Is Generated!
+INFO  11:51:54 Login initiated!
+INFO  11:51:54 Validating the User!
+INFO  11:51:54 Token Is Generated!
+INFO  11:52:54 Login initiated!
+INFO  11:52:54 Validating the User!
+INFO  11:52:54 Token Is Generated!
+INFO  11:57:56 Login initiated!
+INFO  11:57:56 Validating the User!
+INFO  11:57:56 Token Is Generated!
+INFO  12:03:53 Login initiated!
+INFO  12:03:53 Validating the User!
+INFO  12:03:53 Token Is Generated!
+INFO  12:19:14 Login initiated!
+INFO  12:19:14 Validating the User!
+INFO  12:19:14 Token Is Generated!
+INFO  12:46:30 Application started. Press Ctrl+C to shut down.
+INFO  12:46:30 Application started. Press Ctrl+C to shut down.
+INFO  12:46:30 Hosting environment: Development
+INFO  12:46:30 Hosting environment: Development
+INFO  12:46:30 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  12:46:30 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  12:50:27 Failed to determine the https port for redirect.
+WARN  12:50:27 Failed to determine the https port for redirect.
+INFO  12:50:27 Login initiated!
+INFO  12:50:27 Validating the User!
+INFO  12:50:27 Token Is Generated!
+INFO  02:17:26 Application started. Press Ctrl+C to shut down.
+INFO  02:17:26 Application started. Press Ctrl+C to shut down.
+INFO  02:17:26 Hosting environment: Development
+INFO  02:17:26 Hosting environment: Development
+INFO  02:17:26 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  02:17:26 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  02:41:45 Failed to determine the https port for redirect.
+WARN  02:41:45 Failed to determine the https port for redirect.
+INFO  02:41:47 Login initiated!
+INFO  02:41:47 Validating the User!
+INFO  02:41:47 Token Is Generated!
+INFO  02:51:24 Login initiated!
+INFO  02:51:24 Validating the User!
+INFO  02:51:24 Token Is Generated!
+INFO  02:54:16 Login initiated!
+INFO  02:54:16 Validating the User!
+INFO  02:54:16 Token Is Generated!
+INFO  02:56:26 Login initiated!
+INFO  02:56:26 Validating the User!
+INFO  02:56:26 Token Is Generated!
+INFO  03:01:12 Login initiated!
+INFO  03:01:12 Validating the User!
+INFO  03:01:12 Token Is Generated!
+INFO  07:45:31 Application started. Press Ctrl+C to shut down.
+INFO  07:45:31 Application started. Press Ctrl+C to shut down.
+INFO  07:45:31 Hosting environment: Development
+INFO  07:45:31 Hosting environment: Development
+INFO  07:45:31 Content root path: F:\ProjTestROM\AuthorizationAPI
+INFO  07:45:31 Content root path: F:\ProjTestROM\AuthorizationAPI
+WARN  07:46:05 Failed to determine the https port for redirect.
+WARN  07:46:05 Failed to determine the https port for redirect.
+INFO  07:46:06 Login initiated!
+INFO  07:46:06 Validating the User!
+INFO  07:46:06 Token Is Generated!
+INFO  09:46:41 Application started. Press Ctrl+C to shut down.
+INFO  09:46:41 Application started. Press Ctrl+C to shut down.
+INFO  09:46:41 Hosting environment: Development
+INFO  09:46:41 Hosting environment: Development
+INFO  09:46:41 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  09:46:41 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  09:47:57 Failed to determine the https port for redirect.
+WARN  09:47:57 Failed to determine the https port for redirect.
+INFO  09:48:27 Login initiated!
+INFO  09:48:27 Login initiated!
+INFO  09:48:27 Validating the User!
+INFO  09:48:27 Validating the User!
+INFO  09:48:53 Login initiated!
+INFO  09:48:53 Validating the User!
+INFO  09:48:53 Token Is Generated!
+INFO  10:03:35 Login initiated!
+INFO  10:03:35 Validating the User!
+INFO  10:03:45 Login initiated!
+INFO  10:03:45 Validating the User!
+INFO  10:03:45 Token Is Generated!
+INFO  10:09:08 Login initiated!
+INFO  10:09:08 Validating the User!
+INFO  10:09:08 Token Is Generated!
+INFO  10:09:56 Login initiated!
+INFO  10:09:56 Validating the User!
+INFO  10:09:56 Token Is Generated!
+INFO  10:11:07 Login initiated!
+INFO  10:11:07 Validating the User!
+INFO  10:11:07 Token Is Generated!
+INFO  10:11:40 Login initiated!
+INFO  10:11:40 Validating the User!
+INFO  10:11:40 Token Is Generated!
+INFO  10:12:46 Login initiated!
+INFO  10:12:46 Validating the User!
+INFO  10:12:46 Token Is Generated!
+INFO  10:15:50 Login initiated!
+INFO  10:15:50 Validating the User!
+INFO  10:15:50 Token Is Generated!
+INFO  10:17:35 Login initiated!
+INFO  10:17:35 Validating the User!
+INFO  10:17:35 Token Is Generated!
+INFO  10:20:47 Login initiated!
+INFO  10:20:47 Validating the User!
+INFO  10:20:47 Token Is Generated!
+INFO  10:24:52 Login initiated!
+INFO  10:24:52 Validating the User!
+INFO  10:24:52 Token Is Generated!
+INFO  10:27:23 Login initiated!
+INFO  10:27:23 Validating the User!
+INFO  10:27:23 Token Is Generated!
+INFO  10:29:12 Login initiated!
+INFO  10:29:12 Validating the User!
+INFO  10:29:12 Token Is Generated!
+INFO  10:31:22 Login initiated!
+INFO  10:31:22 Validating the User!
+INFO  10:31:22 Token Is Generated!
+INFO  10:40:24 Login initiated!
+INFO  10:40:24 Validating the User!
+INFO  10:40:24 Token Is Generated!
+INFO  10:44:31 Login initiated!
+INFO  10:44:31 Validating the User!
+INFO  10:44:31 Token Is Generated!
+INFO  10:50:02 Login initiated!
+INFO  10:50:02 Validating the User!
+INFO  10:50:02 Token Is Generated!
+INFO  10:58:20 Login initiated!
+INFO  10:58:20 Validating the User!
+INFO  10:58:20 Token Is Generated!
+INFO  11:13:35 Login initiated!
+INFO  11:13:35 Validating the User!
+INFO  11:13:35 Token Is Generated!
+INFO  11:15:33 Login initiated!
+INFO  11:15:33 Validating the User!
+INFO  11:15:33 Token Is Generated!
+INFO  11:16:56 Login initiated!
+INFO  11:16:56 Validating the User!
+INFO  11:16:56 Token Is Generated!
+INFO  11:17:34 Login initiated!
+INFO  11:17:34 Validating the User!
+INFO  11:17:34 Token Is Generated!
+INFO  11:18:34 Login initiated!
+INFO  11:18:34 Validating the User!
+INFO  11:18:34 Token Is Generated!
+INFO  11:27:55 Login initiated!
+INFO  11:27:55 Validating the User!
+INFO  11:27:55 Token Is Generated!
+INFO  11:47:51 Login initiated!
+INFO  11:47:51 Validating the User!
+INFO  11:47:51 Token Is Generated!
+INFO  11:53:46 Login initiated!
+INFO  11:53:46 Validating the User!
+INFO  11:53:46 Token Is Generated!
+INFO  11:59:16 Login initiated!
+INFO  11:59:16 Validating the User!
+INFO  11:59:16 Token Is Generated!
+INFO  12:02:46 Login initiated!
+INFO  12:02:46 Validating the User!
+INFO  12:02:46 Token Is Generated!
+INFO  12:03:32 Login initiated!
+INFO  12:03:32 Validating the User!
+INFO  12:03:32 Token Is Generated!
+INFO  12:06:47 Login initiated!
+INFO  12:06:47 Validating the User!
+INFO  12:06:47 Token Is Generated!
+INFO  05:32:28 Application started. Press Ctrl+C to shut down.
+INFO  05:32:28 Application started. Press Ctrl+C to shut down.
+INFO  05:32:28 Hosting environment: Development
+INFO  05:32:28 Hosting environment: Development
+INFO  05:32:28 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  05:32:28 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  05:35:07 Failed to determine the https port for redirect.
+WARN  05:35:07 Failed to determine the https port for redirect.
+INFO  05:35:07 Login initiated!
+INFO  05:35:07 Validating the User!
+INFO  05:35:07 Token Is Generated!
+INFO  05:45:28 Login initiated!
+INFO  05:45:28 Validating the User!
+INFO  05:45:47 Login initiated!
+INFO  05:45:47 Validating the User!
+INFO  05:45:47 Token Is Generated!
+INFO  06:02:26 Login initiated!
+INFO  06:02:26 Validating the User!
+INFO  06:02:26 Token Is Generated!
+INFO  09:16:20 Application started. Press Ctrl+C to shut down.
+INFO  09:16:20 Application started. Press Ctrl+C to shut down.
+INFO  09:16:20 Hosting environment: Development
+INFO  09:16:20 Hosting environment: Development
+INFO  09:16:20 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+INFO  09:16:20 Content root path: F:\Final_Return_Order_Mana\AuthorizationAPI
+WARN  09:21:13 Failed to determine the https port for redirect.
+WARN  09:21:13 Failed to determine the https port for redirect.
+INFO  09:21:15 Login initiated!
+INFO  09:21:15 Login initiated!
+INFO  09:21:15 Validating the User!
+INFO  09:21:15 Validating the User!
+INFO  09:21:15 Token Is Generated!
+INFO  09:21:15 Token Is Generated!
+INFO  09:26:29 Login initiated!
+INFO  09:26:29 Validating the User!
+INFO  09:26:29 Token Is Generated!
+INFO  09:30:07 Login initiated!
+INFO  09:30:07 Validating the User!
+INFO  09:30:07 Token Is Generated!
+INFO  09:31:00 Login initiated!
+INFO  09:31:00 Validating the User!
+INFO  09:31:00 Token Is Generated!
+INFO  09:32:41 Login initiated!
+INFO  09:32:41 Validating the User!
+INFO  09:32:41 Token Is Generated!
+INFO  09:49:07 Login initiated!
+INFO  09:49:07 Validating the User!
+INFO  09:49:07 Token Is Generated!
+INFO  05:05:26 Application started. Press Ctrl+C to shut down.
+INFO  05:05:26 Application started. Press Ctrl+C to shut down.
+INFO  05:05:26 Hosting environment: Development
+INFO  05:05:26 Hosting environment: Development
+INFO  05:05:26 Content root path: D:\Return_Order_Management-main\AuthorizationAPI
+INFO  05:05:26 Content root path: D:\Return_Order_Management-main\AuthorizationAPI
+INFO  02:25:51 Application started. Press Ctrl+C to shut down.
+INFO  02:25:51 Application started. Press Ctrl+C to shut down.
+INFO  02:25:51 Hosting environment: Development
+INFO  02:25:51 Hosting environment: Development
+INFO  02:25:51 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:25:51 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:26:27 Application started. Press Ctrl+C to shut down.
+INFO  02:26:27 Application started. Press Ctrl+C to shut down.
+INFO  02:26:27 Hosting environment: Development
+INFO  02:26:27 Hosting environment: Development
+INFO  02:26:27 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:26:27 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:26:45 Failed to determine the https port for redirect.
+WARN  02:26:45 Failed to determine the https port for redirect.
+INFO  02:26:45 Login initiated!
+INFO  02:26:45 Validating the User!
+INFO  02:26:45 Token Is Generated!
+INFO  02:27:01 Login initiated!
+INFO  02:27:01 Validating the User!
+INFO  02:27:01 Token Is Generated!
+INFO  02:28:43 Application started. Press Ctrl+C to shut down.
+INFO  02:28:43 Application started. Press Ctrl+C to shut down.
+INFO  02:28:43 Hosting environment: Development
+INFO  02:28:43 Hosting environment: Development
+INFO  02:28:43 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:28:43 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:39:50 Application started. Press Ctrl+C to shut down.
+INFO  02:39:50 Application started. Press Ctrl+C to shut down.
+INFO  02:39:50 Hosting environment: Development
+INFO  02:39:50 Hosting environment: Development
+INFO  02:39:50 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:39:50 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:40:07 Failed to determine the https port for redirect.
+WARN  02:40:07 Failed to determine the https port for redirect.
+INFO  02:40:07 Login initiated!
+INFO  02:40:07 Validating the User!
+INFO  02:40:07 Token Is Generated!
+INFO  02:50:31 Application started. Press Ctrl+C to shut down.
+INFO  02:50:31 Application started. Press Ctrl+C to shut down.
+INFO  02:50:31 Hosting environment: Development
+INFO  02:50:31 Hosting environment: Development
+INFO  02:50:31 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:50:31 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:51:22 Failed to determine the https port for redirect.
+WARN  02:51:22 Failed to determine the https port for redirect.
+INFO  02:51:22 Login initiated!
+INFO  02:51:22 Validating the User!
+INFO  02:51:22 Token Is Generated!
+ERROR 02:51:22 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 37
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:51:22 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 37
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:52:53 Application started. Press Ctrl+C to shut down.
+INFO  02:52:53 Application started. Press Ctrl+C to shut down.
+INFO  02:52:53 Hosting environment: Development
+INFO  02:52:53 Hosting environment: Development
+INFO  02:52:53 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:52:53 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:53:14 Failed to determine the https port for redirect.
+WARN  02:53:14 Failed to determine the https port for redirect.
+INFO  02:53:14 Login initiated!
+INFO  02:53:14 Validating the User!
+INFO  02:53:14 Token Is Generated!
+ERROR 02:53:14 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:53:14 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:53:39 Application started. Press Ctrl+C to shut down.
+INFO  02:53:39 Application started. Press Ctrl+C to shut down.
+INFO  02:53:39 Hosting environment: Development
+INFO  02:53:39 Hosting environment: Development
+INFO  02:53:39 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:53:39 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:53:54 Failed to determine the https port for redirect.
+WARN  02:53:54 Failed to determine the https port for redirect.
+INFO  02:53:55 Login initiated!
+INFO  02:53:55 Validating the User!
+INFO  02:53:55 Token Is Generated!
+ERROR 02:53:55 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:53:55 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:55:35 Application started. Press Ctrl+C to shut down.
+INFO  02:55:35 Application started. Press Ctrl+C to shut down.
+INFO  02:55:35 Hosting environment: Development
+INFO  02:55:35 Hosting environment: Development
+INFO  02:55:35 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:55:35 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:55:54 Failed to determine the https port for redirect.
+WARN  02:55:54 Failed to determine the https port for redirect.
+INFO  02:55:54 Login initiated!
+INFO  02:55:54 Validating the User!
+INFO  02:55:54 Token Is Generated!
+ERROR 02:55:54 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:55:54 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:57:13 Application started. Press Ctrl+C to shut down.
+INFO  02:57:13 Application started. Press Ctrl+C to shut down.
+INFO  02:57:13 Hosting environment: Development
+INFO  02:57:13 Hosting environment: Development
+INFO  02:57:13 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:57:13 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:57:29 Failed to determine the https port for redirect.
+WARN  02:57:29 Failed to determine the https port for redirect.
+INFO  02:57:29 Login initiated!
+INFO  02:57:29 Validating the User!
+INFO  02:57:29 Token Is Generated!
+ERROR 02:57:29 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:57:29 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:58:39 Application started. Press Ctrl+C to shut down.
+INFO  02:58:39 Application started. Press Ctrl+C to shut down.
+INFO  02:58:39 Hosting environment: Development
+INFO  02:58:39 Hosting environment: Development
+INFO  02:58:39 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:58:39 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:59:13 Failed to determine the https port for redirect.
+WARN  02:59:13 Failed to determine the https port for redirect.
+INFO  02:59:13 Login initiated!
+INFO  02:59:13 Validating the User!
+INFO  02:59:13 Token Is Generated!
+ERROR 02:59:13 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:59:13 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AuthorizationAPI.Repository.AuthRepo.GenerateJSONWebToken(UserCredentials userInfo) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Repository\AuthRepo.cs:line 28
+   at AuthorizationAPI.Controllers.AuthController.Login(UserCredentials login) in C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI\Controllers\AuthController.cs:line 41
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:09:05 Application started. Press Ctrl+C to shut down.
+INFO  03:09:05 Application started. Press Ctrl+C to shut down.
+INFO  03:09:05 Hosting environment: Development
+INFO  03:09:05 Hosting environment: Development
+INFO  03:09:05 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  03:09:05 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  03:09:22 Failed to determine the https port for redirect.
+WARN  03:09:22 Failed to determine the https port for redirect.
+INFO  03:09:22 Login initiated!
+INFO  03:09:22 Validating the User!
+INFO  03:09:22 Token Is Generated!
+INFO  03:25:45 Login initiated!
+INFO  03:25:45 Validating the User!
+INFO  03:25:45 Token Is Generated!
+INFO  03:26:29 Application started. Press Ctrl+C to shut down.
+INFO  03:26:29 Application started. Press Ctrl+C to shut down.
+INFO  03:26:29 Hosting environment: Development
+INFO  03:26:29 Hosting environment: Development
+INFO  03:26:29 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  03:26:29 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  03:27:00 Failed to determine the https port for redirect.
+WARN  03:27:00 Failed to determine the https port for redirect.
+INFO  03:27:00 Login initiated!
+INFO  03:27:00 Validating the User!
+INFO  03:27:00 Token Is Generated!
+INFO  03:30:54 Application started. Press Ctrl+C to shut down.
+INFO  03:30:54 Application started. Press Ctrl+C to shut down.
+INFO  03:30:54 Hosting environment: Development
+INFO  03:30:54 Hosting environment: Development
+INFO  03:30:54 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  03:30:54 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  03:32:12 Failed to determine the https port for redirect.
+WARN  03:32:12 Failed to determine the https port for redirect.
+INFO  03:32:12 Login initiated!
+INFO  03:32:12 Validating the User!
+INFO  03:32:12 Token Is Generated!
+INFO  03:50:10 Login initiated!
+INFO  03:50:10 Validating the User!
+INFO  03:50:10 Token Is Generated!
+INFO  03:51:59 Login initiated!
+INFO  03:51:59 Validating the User!
+INFO  03:51:59 Token Is Generated!
+INFO  04:02:17 Login initiated!
+INFO  04:02:17 Validating the User!
+INFO  04:02:17 Token Is Generated!
+INFO  04:47:50 Application started. Press Ctrl+C to shut down.
+INFO  04:47:50 Application started. Press Ctrl+C to shut down.
+INFO  04:47:50 Hosting environment: Development
+INFO  04:47:50 Hosting environment: Development
+INFO  04:47:50 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  04:47:50 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  04:49:48 Failed to determine the https port for redirect.
+WARN  04:49:48 Failed to determine the https port for redirect.
+INFO  04:49:48 Login initiated!
+INFO  04:49:48 Validating the User!
+INFO  04:49:48 Token Is Generated!
+INFO  12:43:11 Application started. Press Ctrl+C to shut down.
+INFO  12:43:11 Application started. Press Ctrl+C to shut down.
+INFO  12:43:11 Hosting environment: Development
+INFO  12:43:11 Hosting environment: Development
+INFO  12:43:11 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  12:43:11 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  01:27:56 Application started. Press Ctrl+C to shut down.
+INFO  01:27:56 Application started. Press Ctrl+C to shut down.
+INFO  01:27:56 Hosting environment: Development
+INFO  01:27:56 Hosting environment: Development
+INFO  01:27:56 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  01:27:56 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  01:29:00 Application started. Press Ctrl+C to shut down.
+INFO  01:29:00 Application started. Press Ctrl+C to shut down.
+INFO  01:29:00 Hosting environment: Development
+INFO  01:29:00 Hosting environment: Development
+INFO  01:29:00 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  01:29:00 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  01:29:40 Failed to determine the https port for redirect.
+WARN  01:29:40 Failed to determine the https port for redirect.
+INFO  01:29:47 Login initiated!
+INFO  01:29:47 Validating the User!
+INFO  01:29:47 Token Is Generated!
+INFO  01:31:07 Login initiated!
+INFO  01:31:07 Validating the User!
+INFO  01:31:07 Token Is Generated!
+INFO  01:36:12 Login initiated!
+INFO  01:36:12 Validating the User!
+INFO  01:36:42 Login initiated!
+INFO  01:36:42 Validating the User!
+INFO  01:37:05 Login initiated!
+INFO  01:37:05 Validating the User!
+INFO  01:37:09 Login initiated!
+INFO  01:37:09 Validating the User!
+INFO  01:46:34 Login initiated!
+INFO  01:46:34 Validating the User!
+INFO  01:46:45 Login initiated!
+INFO  01:46:45 Validating the User!
+INFO  01:46:45 Token Is Generated!
+INFO  02:13:42 Application started. Press Ctrl+C to shut down.
+INFO  02:13:42 Application started. Press Ctrl+C to shut down.
+INFO  02:13:42 Hosting environment: Development
+INFO  02:13:42 Hosting environment: Development
+INFO  02:13:42 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:13:42 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:18:10 Failed to determine the https port for redirect.
+WARN  02:18:10 Failed to determine the https port for redirect.
+INFO  02:18:11 Login initiated!
+INFO  02:18:11 Validating the User!
+INFO  02:18:11 Token Is Generated!
+INFO  05:27:55 Application started. Press Ctrl+C to shut down.
+INFO  05:27:55 Application started. Press Ctrl+C to shut down.
+INFO  05:27:55 Hosting environment: Development
+INFO  05:27:55 Hosting environment: Development
+INFO  05:27:55 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  05:27:55 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  05:30:59 Failed to determine the https port for redirect.
+WARN  05:30:59 Failed to determine the https port for redirect.
+INFO  05:30:59 Login initiated!
+INFO  05:30:59 Validating the User!
+INFO  05:30:59 Token Is Generated!
+INFO  05:40:13 Login initiated!
+INFO  05:40:13 Validating the User!
+INFO  05:40:13 Token Is Generated!
+INFO  01:55:41 Application started. Press Ctrl+C to shut down.
+INFO  01:55:41 Application started. Press Ctrl+C to shut down.
+INFO  01:55:41 Hosting environment: Development
+INFO  01:55:41 Hosting environment: Development
+INFO  01:55:41 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  01:55:41 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  01:56:39 Failed to determine the https port for redirect.
+WARN  01:56:39 Failed to determine the https port for redirect.
+INFO  01:56:39 Login initiated!
+INFO  01:56:39 Validating the User!
+INFO  01:56:39 Token Is Generated!
+INFO  02:59:45 Application started. Press Ctrl+C to shut down.
+INFO  02:59:45 Application started. Press Ctrl+C to shut down.
+INFO  02:59:45 Hosting environment: Development
+INFO  02:59:45 Hosting environment: Development
+INFO  02:59:45 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  02:59:45 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  02:59:45 Failed to determine the https port for redirect.
+WARN  02:59:45 Failed to determine the https port for redirect.
+INFO  02:59:46 Login initiated!
+INFO  02:59:46 Validating the User!
+INFO  02:59:46 Token Is Generated!
+INFO  03:00:52 Login initiated!
+INFO  03:00:52 Validating the User!
+INFO  03:01:06 Login initiated!
+INFO  03:01:06 Validating the User!
+INFO  03:01:06 Token Is Generated!
+INFO  04:55:08 Application started. Press Ctrl+C to shut down.
+INFO  04:55:08 Application started. Press Ctrl+C to shut down.
+INFO  04:55:08 Hosting environment: Development
+INFO  04:55:08 Hosting environment: Development
+INFO  04:55:08 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  04:55:08 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  04:59:55 Failed to determine the https port for redirect.
+WARN  04:59:55 Failed to determine the https port for redirect.
+INFO  04:59:55 Login initiated!
+INFO  04:59:55 Validating the User!
+INFO  04:59:55 Token Is Generated!
+INFO  05:10:45 Login initiated!
+INFO  05:10:45 Validating the User!
+INFO  05:10:45 Token Is Generated!
+INFO  05:17:21 Login initiated!
+INFO  05:17:21 Validating the User!
+INFO  05:17:21 Token Is Generated!
+INFO  09:05:20 Application started. Press Ctrl+C to shut down.
+INFO  09:05:20 Application started. Press Ctrl+C to shut down.
+INFO  09:05:20 Hosting environment: Development
+INFO  09:05:20 Hosting environment: Development
+INFO  09:05:20 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  09:05:20 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  09:07:56 Failed to determine the https port for redirect.
+WARN  09:07:56 Failed to determine the https port for redirect.
+INFO  09:07:57 Login initiated!
+INFO  09:07:57 Validating the User!
+INFO  09:07:57 Token Is Generated!
+INFO  09:08:19 Login initiated!
+INFO  09:08:19 Validating the User!
+INFO  09:08:19 Token Is Generated!
+INFO  07:05:29 Application started. Press Ctrl+C to shut down.
+INFO  07:05:29 Application started. Press Ctrl+C to shut down.
+INFO  07:05:29 Hosting environment: Development
+INFO  07:05:29 Hosting environment: Development
+INFO  07:05:29 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+INFO  07:05:29 Content root path: C:\Users\User\OneDrive\Desktop\Return_Order_Management-main\AuthorizationAPI
+WARN  07:08:45 Failed to determine the https port for redirect.
+WARN  07:08:45 Failed to determine the https port for redirect.
+INFO  07:08:48 Login initiated!
+INFO  07:08:48 Validating the User!
+INFO  07:08:48 Token Is Generated!
